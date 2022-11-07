@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="HSVTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RedTests.cs" />
     <Compile Include="RGBTests.cs" />
   </ItemGroup>
   <ItemGroup>
